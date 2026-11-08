@@ -6,6 +6,7 @@ This repository demonstrates a tiny reproducible MLOps flow:
 3. Start a minimal Flask app with `python src/app.py` that serves `/predict`
 4. Build a Docker image with `docker build -t hello-mlops .`
 5. CI trains the model and uploads artifacts
+6. #####
 
 ## Quick start (local)
 1. Create and activate a venv (example using python 3.13 or 3.11):
